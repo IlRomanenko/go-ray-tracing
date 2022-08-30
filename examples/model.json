@@ -1,0 +1,41 @@
+{
+    "Lights": [
+        {
+            "Ref": {
+                "Power": 1,
+                "Distance": 1
+            },
+            "Power": 5,
+            "Position": {
+                "X": 5,
+                "Y": 5,
+                "Z": 0
+            }
+        }
+    ],
+    "Viewport": {
+        "Origin": {
+            "X": 100,
+            "Y": 0,
+            "Z": 0
+        },
+        "TopLeft": {
+            "X": 5,
+            "Y": 7,
+            "Z": -5
+        },
+        "BottomLeft": {
+            "X": 5,
+            "Y": -3,
+            "Z": -5
+        },
+        "TopRight": {
+            "X": 5,
+            "Y": 7,
+            "Z": 5
+        },
+        "Width": 1000,
+        "Height": 1000
+    },
+    "ModelName": "model.obj"
+}

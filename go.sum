@@ -1,0 +1,6 @@
+github.com/jessevdk/go-flags v1.5.0 h1:1jKYvbxEjfUl0fmqTCOfonvskHHXMjBySTLW4y9LFvc=
+github.com/jessevdk/go-flags v1.5.0/go.mod h1:Fw0T6WPc1dYxT4mKEZRfG5kJhaTDP9pj1c2EWnYs/m4=
+github.com/udhos/gwob v0.0.0-20200524213453-619810f75817 h1:4M105Yb9NHJ/sI3xAS3WbXt4d09q940504X5zE5JM7s=
+github.com/udhos/gwob v0.0.0-20200524213453-619810f75817/go.mod h1:kOhibXY50yGPKNcoFg+KDoC4hGzyJ6YX0wfKHhThntk=
+golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 h1:EZ2mChiOa8udjfp6rRmswTbtZN/QzUQp4ptM4rnjHvc=
+golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
